@@ -281,6 +281,10 @@ header .navbar {
     width: calc(100% / 6 - 110px);
 }
 
+.product-section .product-list .product-item:hover {
+    transform: scale(1.5);
+}
+
 .product-section .product-list .product-item .product-image {
     max-width: 83%;
     aspect-ratio: 1;
