@@ -282,7 +282,7 @@ header .navbar {
 }
 
 .product-section .product-list .product-item:hover {
-    transform: scale(2);
+    transform: scale(1.8);
 }
 
 .product-section .product-list .product-item .product-image {
