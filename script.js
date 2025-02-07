@@ -1,7 +1,7 @@
 const navLinks = document.querySelector(".nav-menu .nav-link");
 const menuOpenButton = document.querySelector("#menu-open-button");
 const menuCloseButton = document.querySelector("#menu-close-button");
-img = document.getElementById("img1");
+img = document.getElementById();
 
 menuOpenButton.addEventListener("click", () => {
     //Toggle Mobile Menu Visibility
