@@ -1,7 +1,32 @@
 const navLinks = document.querySelector(".nav-menu .nav-link");
 const menuOpenButton = document.querySelector("#menu-open-button");
 const menuCloseButton = document.querySelector("#menu-close-button");
-img = document.getElementById();
+img = document.getElementById("img1");
+img = document.getElementById("img2");
+img = document.getElementById("img3");
+img = document.getElementById("img4");
+img = document.getElementById("img5");
+img = document.getElementById("img6");
+img = document.getElementById("img7");
+img = document.getElementById("img8");
+img = document.getElementById("img9");
+img = document.getElementById("img10");
+img = document.getElementById("img11");
+img = document.getElementById("img12");
+img = document.getElementById("img13");
+img = document.getElementById("img14");
+img = document.getElementById("img15");
+img = document.getElementById("img16");
+img = document.getElementById("img17");
+img = document.getElementById("img18");
+img = document.getElementById("img19");
+img = document.getElementById("img20");
+img = document.getElementById("img21");
+img = document.getElementById("img22");
+img = document.getElementById("img23");
+img = document.getElementById("img24");
+img = document.getElementById("img25");
+
 
 menuOpenButton.addEventListener("click", () => {
     //Toggle Mobile Menu Visibility
