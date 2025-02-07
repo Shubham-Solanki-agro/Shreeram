@@ -135,8 +135,7 @@ header .navbar {
 /* Hero section styling */
 .hero-section {
     background: var(--primary-color);
-    max-height: fit-content;
-    max-width: fit-content;
+   
     background-image: url("images/Logo\ header.jpg");
 }
 
