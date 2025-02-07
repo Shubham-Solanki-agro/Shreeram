@@ -26,6 +26,13 @@ img = document.getElementById("img22");
 img = document.getElementById("img23");
 img = document.getElementById("img24");
 img = document.getElementById("img25");
+img = document.getElementById("img26");
+img = document.getElementById("img27");
+img = document.getElementById("img28");
+img = document.getElementById("img29");
+img = document.getElementById("img30");
+img = document.getElementById("img31");
+img = document.getElementById("img32");
 
 
 menuOpenButton.addEventListener("click", () => {
