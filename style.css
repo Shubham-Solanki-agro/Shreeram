@@ -278,11 +278,11 @@ header .navbar {
     text-align: center;
     flex-direction: column;
     justify-content: space-between;
-    width: calc(100% / 6 - 110px);
+    width: calc(100% / 4 - 110px);
 }
 
 .product-section .product-list .product-item:hover {
-    transform: scale(1.5);
+    transform: scale(2);
 }
 
 .product-section .product-list .product-item .product-image {
@@ -476,7 +476,7 @@ header .navbar {
     }
 
     .product-section .product-list .product-item {
-        width: calc(100% / 4 - 60px);
+        width: calc(100% / 2 - 60px);
     }
 }
 
@@ -583,7 +583,7 @@ header .navbar {
     }
 
     .product-section .product-list .product-item {
-        width: calc(100% / 3 - 30px);
+        width: calc(100% / 1 - 30px);
     }
 
     .product-section .product-list .product-item .product-image {
