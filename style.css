@@ -136,7 +136,7 @@ header .navbar {
 .hero-section {
     background: var(--primary-color);
     min-height: 100vh;
-    background-image: url("images/hero\ logo1.jpeg"); 
+    background-image: url("images/agrochemicals.jpg"); 
 }    
 
 .hero-section .section-content {
