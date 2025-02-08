@@ -136,6 +136,7 @@ header .navbar {
 .hero-section {
     background: var(--primary-color);
     background-image: url("images/Logo\ header.jpg"); 
+}    
 
 .hero-section .section-content {
     display: flex;
