@@ -137,6 +137,7 @@ header .navbar {
     background: var(--primary-color);
     min-height: 100vh;
     background-image: url("images/agrochemicals.jpg"); 
+    background-repeat: no-repeat;
 }    
 
 .hero-section .section-content {
